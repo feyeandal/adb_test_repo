@@ -1,0 +1,5 @@
+﻿city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Incheon,37.4833,126.6333,South Korea,KR,Incheon,admin,2936117,2936117
+Seoul,37.56,126.99,South Korea,KR,Seoul,primary,23016000,10013781
+Suwon,37.2667,127.0167,South Korea,KR,Gyeonggi,admin,1234300,1234300
+Ulsan,35.55,129.3167,South Korea,KR,Ulsan,admin,1166033,1150116

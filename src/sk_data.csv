@@ -1,0 +1,9 @@
+﻿city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Bucheon,37.5,126.7833,South Korea,KR,Gyeonggi,minor,867678,792561
+Busan,35.18,129.075,South Korea,KR,Busan,admin,3453198,3453198
+Changwon,35.2708,128.6631,South Korea,KR,Gyeongnam,admin,1046054,1046054
+Daegu,35.8717,128.6017,South Korea,KR,Daegu,admin,2461002,2444412
+Daejeon,36.351,127.385,South Korea,KR,Daejeon,admin,1475221,1475221
+Dongnae,35.2016,129.0848,South Korea,KR,Busan,minor,,
+Goyang,37.65,126.8,South Korea,KR,Gyeonggi,minor,1061929,1061929
+Gwangju,35.1653,126.8486,South Korea,KR,Gwangju,admin,1490092,1490092
