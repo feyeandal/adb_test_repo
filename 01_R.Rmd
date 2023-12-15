@@ -5,3 +5,13 @@ if (!require("shrinkTVP")) install.packages("shrinkTVP", dependencies=TRUE)
 library(readr)
 library(VGAM)
 library(shrinkTVP)
+
+
+# R Code Chunk
+
+```{r}
+# Creating a vector
+my_vector <- c(1, 2, 3, 4, 5)
+
+# Printing the vector
+print(my_vector)
